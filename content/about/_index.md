@@ -13,3 +13,5 @@ to time we will try and write about escape rooms that we visit outside India.
 - **Saptak Sengupta**: A web developer who loves solving puzzles and breaking his head over riddles. Naturally, escape room is one of his interests and spends almost every weekend in a escape room.
 
 - **Sayan Chowdhury**: An ambitious techie and community person who loves spending all his salary in escape rooms and beating best times for every escape room there is.
+
+- **Gaurav Kumar**: Software engineer who loves going to escape rooms and solving challenges when not busy with his life.
