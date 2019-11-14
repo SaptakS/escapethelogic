@@ -65,3 +65,8 @@ enableEmoji = true
   # github        = "full profile url in github"
   # youtube       = "full profile url in youtube"
   # whatsapp      = "wa.me service link"
+  #
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"
