@@ -12,14 +12,11 @@ tags:
 - Beginners
 ---
 
-* Ambience - <strong class="star">:star:</strong> <strong class="star">:star:</strong>
-<strong class="star">:star:</strong> <strong class="star-empty">:star:</strong> <strong class="star-empty">:star:</strong>
-* Clues & Locks - <strong class="star">:star:</strong> <strong class="star">:star:</strong>
-<strong class="star-empty">:star:</strong> <strong class="star-empty">:star:</strong> <strong class="star-empty">:star:</strong>
-* Success Rate - Unknown
+* Ambience - <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong> ★ ★
+* Clues & Locks - <strong class="star">⭐</strong> <strong class="star">⭐</strong> ★ ★ ★
+* Success Rate - 95%
 * Difficulty - Beginner
-* Overall - <strong class="star">:star:</strong> <strong class="star">:star:</strong>
-<strong class="star">:star:</strong> <strong class="star-empty">:star:</strong> <strong class="star-empty">:star:</strong>
+* Overall - <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong> ★ ★
 
 <!--more-->
  

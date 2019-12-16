@@ -18,14 +18,11 @@ tags:
 - Intermediate
 ---
 
-* Ambience - <strong class="star">:star:</strong> <strong class="star">:star:</strong>
-<strong class="star">:star:</strong> <strong class="star">:star:</strong> <strong class="star">:star:</strong>
-* Clues & Locks - <strong class="star">:star:</strong> <strong class="star">:star:</strong>
-<strong class="star">:star:</strong> <strong class="star">:star:</strong> <strong class="star">:star:</strong>
+* Ambience - <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong>
+* Clues & Locks - <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong>
 * Success Rate - Unknown
 * Difficulty - Intermediate
-* Overall - <strong class="star">:star:</strong> <strong class="star">:star:</strong>
-<strong class="star">:star:</strong> <strong class="star">:star:</strong> <strong class="star">:star:</strong>
+* Overall - <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong>
 
 <!--more-->
 

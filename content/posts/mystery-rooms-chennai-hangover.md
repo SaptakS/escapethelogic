@@ -13,14 +13,11 @@ tags:
 - Challenging
 ---
 
-* Ambience - <strong class="star">:star:</strong> <strong class="star">:star:</strong>
-<strong class="star">:star:</strong> <strong class="star">:star:</strong> <strong class="star-empty">:star:</strong>
-* Clues & Locks - <strong class="star">:star:</strong> <strong class="star">:star:</strong>
-<strong class="star">:star:</strong> <strong class="star">:star:</strong> <strong class="star-empty">:star:</strong>
+* Ambience - <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong> ★
+* Clues & Locks - <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong> ★
 * Success Rate - 25%
 * Difficulty - Moderate
-* Overall - <strong class="star">:star:</strong> <strong class="star">:star:</strong>
-<strong class="star">:star:</strong> <strong class="star">:star:</strong> <strong class="star-empty">:star:</strong>
+* Overall - <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong> <strong class="star">⭐</strong> ★
 
 <!--more-->
 
